@@ -1,0 +1,9 @@
+# Security settings for config directory
+Order Deny,Allow
+Deny from all
+
+# Allow access to specific files if needed
+<Files "database.php">
+    Order Allow,Deny
+    Allow from all
+</Files>
