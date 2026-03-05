@@ -220,6 +220,3 @@ ini_set('display_errors', 1);
 error_reporting(E_ALL);
 ```
 
----
-
-**Built with ❤️ By Eng. Salman Abualhin Using pure PHP, HTML, CSS, and JavaScript**
